@@ -1,5 +1,11 @@
 # Facebook Home Screen Shortcut
 
+## Feature overview
+
+![facebook — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 A progressive web app (PWA) that allows users to easily add Facebook as a shortcut to their home screen on Android and iOS devices.
 
 ## Features
